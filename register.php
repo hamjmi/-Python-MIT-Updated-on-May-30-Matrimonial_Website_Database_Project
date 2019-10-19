@@ -1,4 +1,5 @@
-
+//string name="mohd hamid";
+//cout<<"Author : "<<hamid<<endl;
 <style type="text/css">
 		
 		.pga { width: 100%;}
